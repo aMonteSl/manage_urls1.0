@@ -1,3 +1,4 @@
+# Autor: Adrián Montes Linares
 ## Descarga de Documentos Web
 
 Este repositorio contiene un conjunto de clases y programas en Python diseñados para facilitar la descarga y gestión de documentos web. 
