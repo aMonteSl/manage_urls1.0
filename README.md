@@ -30,10 +30,6 @@ El programa principal crea al menos dos objetos de la clase `Robot`, llama a var
 
 ## Descarga de Documentos Web con Módulos
 
-#### Repositorio de Plantilla (para entrega)
-
-[Descarga Documentos Web con Módulos](https://gitlab.eif.urjc.es/cursosweb/2023-2024/descarga-documentos-web-con-modulos)
-
 #### Enunciado
 
 Este ejercicio requiere la implementación de un programa con la misma funcionalidad que "Descarga de documentos web" (ejercicio 16.9), pero usando módulos separados para la clase `Robot` y la clase `Cache`. El programa principal, que será otro archivo, implementará la misma funcionalidad de prueba de las clases.
