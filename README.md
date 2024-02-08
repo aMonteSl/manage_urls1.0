@@ -1,4 +1,4 @@
-### Descarga de Documentos Web
+## Descarga de Documentos Web
 
 Este repositorio contiene un conjunto de clases y programas en Python diseñados para facilitar la descarga y gestión de documentos web. 
 
@@ -27,11 +27,8 @@ Este repositorio contiene un conjunto de clases y programas en Python diseñados
 
 El programa principal crea al menos dos objetos de la clase `Robot`, llama a varios de sus métodos, y crea al menos dos objetos de la clase `Cache`, llamando también a varios de sus métodos para demostrar su funcionamiento.
 
-### Soluciones
 
-- Una posible solución se encuentra en el archivo `cache_web.py` en el directorio `Python-Intro` del repositorio de código de la asignatura.
-
-### Descarga de Documentos Web con Módulos
+## Descarga de Documentos Web con Módulos
 
 #### Repositorio de Plantilla (para entrega)
 
@@ -41,10 +38,5 @@ El programa principal crea al menos dos objetos de la clase `Robot`, llama a var
 
 Este ejercicio requiere la implementación de un programa con la misma funcionalidad que "Descarga de documentos web" (ejercicio 16.9), pero usando módulos separados para la clase `Robot` y la clase `Cache`. El programa principal, que será otro archivo, implementará la misma funcionalidad de prueba de las clases.
 
-#### Solución
 
-Una posible solución se ofrece en los siguientes archivos del directorio `Python-Intro` del repositorio de código de la asignatura:
-- `robot.py`: Módulo con la clase `Robot`.
-- `cache.py`: Módulo con la clase `Cache`.
-- `cache_web_modules.py`: Programa principal.
 
